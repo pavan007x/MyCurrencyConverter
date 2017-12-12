@@ -4,7 +4,7 @@ A simple currency app built using the [Fixer.io](http://fixer.io/) API.
 
 ## Live Demo
 
-https://github.com/pavan007x/Currency
+https://pavan007x.github.io/MyCurrencyConverter/
 
 ## User stories
 
